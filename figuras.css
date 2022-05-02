@@ -169,6 +169,20 @@ p{
     place-self: center;
 }
 
+.triangulo-isoceles{
+    text-align: center;
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+}
+
+.button-triangulo-isoceles{
+    width: 80%;
+    height: 40px;
+    grid-column: 3 / 4;
+    grid-row: 4 / 5;
+    place-self: center;
+}
+
 .circulo{
     border-radius: 50%;
     width: 100px;
